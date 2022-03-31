@@ -3,7 +3,7 @@ var botonCV =document.querySelector(".botonCV");
 botonCV.addEventListener("click",()=>{
 
     const downloadInstance = document.createElement("a");
-    downloadInstance.href = 'https://crisrmrz.github.io/Portfolio//CV.pdf';
+    downloadInstance.href = 'https://crisrmrz.github.io/Portfolio/CV.pdf';
 
     downloadInstance.target = "_blank";
     downloadInstance.download = "CV";
