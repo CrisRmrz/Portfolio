@@ -1,7 +1,7 @@
 @font-face {
   font-family: "WebSymbolsRegular";
-  src: url("https://github.com/CrisRmrz/Portfolio/fonts/websymbols-regular-webfont.eot");
-  src: url("https://github.com/CrisRmrz/Portfolio/fonts/websymbols-regular-webfont.eot?#iefix") format("embedded-opentype"), url("https://github.com/CrisRmrz/Portfolio/fonts/websymbols-regular-webfont.woff") format("woff"), url("https://github.com/CrisRmrz/Portfolio/fonts/websymbols-regular-webfont.ttf") format("truetype"), url("https://github.com/CrisRmrz/Portfolio/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular") format("svg");
+  src: url("https://crisrmrz.github.io/Portfolio/fonts/websymbols-regular-webfont.eot");
+  src: url("https://crisrmrz.github.io/Portfolio/fonts/websymbols-regular-webfont.eot?#iefix") format("embedded-opentype"), url("https://crisrmrz.github.io/Portfolio/fonts/websymbols-regular-webfont.woff") format("woff"), url("https://crisrmrz.github.io/Portfolio/fonts/websymbols-regular-webfont.ttf") format("truetype"), url("https://github.com/CrisRmrz/Portfolio/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
