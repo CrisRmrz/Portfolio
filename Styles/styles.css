@@ -527,7 +527,13 @@ body {
 
 @media screen and (max-width: 630px) {
   .container .tec .wrap-frontend img {
-    width: 80px;
+    width: 70px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .container .tec .wrap-frontend img {
+    width: 60px;
   }
 }
 
@@ -891,9 +897,6 @@ body {
   .footer .wrap .wrap-imgs img {
     width: 60px;
   }
-  .wrap-frontend img{
-    width: 30px;
-    }
 }
 
 .footer .wrap p {
