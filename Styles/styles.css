@@ -891,6 +891,9 @@ body {
   .footer .wrap .wrap-imgs img {
     width: 60px;
   }
+  .wrap-frontend img{
+    width: 30px;
+    }
 }
 
 .footer .wrap p {
