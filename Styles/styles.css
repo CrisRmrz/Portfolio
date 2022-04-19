@@ -899,6 +899,12 @@ body {
   }
 }
 
+@media screen and (max-width: 380px) {
+  .wrap-frontend img{
+    width: 60px;
+  }
+}
+
 .footer .wrap p {
   color: #FD9A2C;
   font-size: 30px;
