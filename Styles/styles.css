@@ -582,6 +582,7 @@ body {
 .showcase2 {
   display: -webkit-box;
   display: -ms-flexbox;
+  flex-direction: column;
   display: flex;
   background-color: white;
   margin: 0px auto;
