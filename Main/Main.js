@@ -1,4 +1,4 @@
-var botonCV =document.querySelector("#gooey-button"");
+var botonCV =document.querySelector("#gooey-button");
 
 botonCV.addEventListener("click",()=>{
 
