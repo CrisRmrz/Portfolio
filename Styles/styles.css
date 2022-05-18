@@ -314,6 +314,7 @@ body {
 
 .container {
   height: 2000px;
+  align-items: center;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
