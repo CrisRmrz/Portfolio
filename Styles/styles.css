@@ -945,6 +945,10 @@ svg {
   }
   
   #gooey-button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
     margin-top: 30px;
     margin-left: 5px;
     margin-right: 5px;
@@ -1404,3 +1408,12 @@ svg {
       opacity: 0;
     }
   }
+
+
+
+
+#garysticker{
+    width: 60px;
+    font-size: 20px;
+    margin-left: 15px;
+}
