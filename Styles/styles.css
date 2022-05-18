@@ -1419,6 +1419,13 @@ svg {
 }
 
 #grootimg{
-  width: 50px;
-  margin-right: 10px;
+    margin-top: 10px;
+    width: 60px;
+    margin-right: 20px;
+}
+
+#h2Portfolio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
