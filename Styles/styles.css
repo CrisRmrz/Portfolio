@@ -1599,3 +1599,23 @@ svg {
   }
 
 }
+
+
+
+
+
+#gooey-button:hover{
+    transition: all 500ms;
+    background-color: purple;
+  }
+
+  #gooey-button:hover h4{
+    transition: all 900ms;
+    color: white;
+    text-shadow: 1px 1px 10px orange;
+  }
+
+#gooey-button:hover .bubbles .bubble{
+    transition: all 900ms;
+    background-color: purple;
+  }
