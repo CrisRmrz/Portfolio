@@ -1628,22 +1628,27 @@ svg {
 
 
 
-
-
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 .containerCodePen {
-  display: flex;
-  height: 100%;
+
+  margin: 0px auto;
+  height: 100px;
+  width: 80%;
   align-items: center;
 }
 
 svg {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font: 10.5em 'Montserrat';
-    width: 500px;
-    height: 300px;
+    width: 300px;
+    height: 120px;
     margin: 0 auto;
+    background: #030321;
+    border-radius: 10px;
+    border: 2px solid orange;
 }
 
 .text-copy {
