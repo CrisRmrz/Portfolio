@@ -1621,13 +1621,19 @@ svg {
   }
 
 
-//Texto animado de CRISRMRZ
+
+
+
+
+
+
+
+
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 .containerCodePen {
   display: flex;
-/*   border:1px solid red; */
   height: 100%;
   align-items: center;
 }
