@@ -1625,18 +1625,6 @@ svg {
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
-html, body{
-  height: 100%;
-  font-weight: 800;
-  margin: 0;
-  padding: 0;
-}
-
-body{
-  background: #030321;
-  font-family: Arial;
-}
-
 .containerCodePen {
   display: flex;
 /*   border:1px solid red; */
